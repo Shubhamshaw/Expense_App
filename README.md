@@ -16,5 +16,5 @@ For help getting started with Flutter, view our
 samples, guidance on mobile development, and a full API reference.
 # Expense_App
 
-![image](imagesOfApp/20200731_121924.jpg)
+![image](ImagesOfApp/20200731_121924.jpg)
 
